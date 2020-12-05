@@ -1,0 +1,16 @@
+[
+{
+  "modid": "swm",
+  "name": "Star Wars Mod",
+  "description": "Mod that includes items from Star Wars",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cole Delong"],
+  "credits": "me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

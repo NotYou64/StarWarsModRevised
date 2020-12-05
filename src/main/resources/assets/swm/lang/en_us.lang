@@ -1,0 +1,13 @@
+
+//Items
+//item.example_item.name=Example Mod Item Name
+item.lightsaber_green.name=Green Lightsaber
+item.lightsaber_youngling_blue.name=Youngling Blue Lightsaber
+item.lightsaber_original_blue.name=Guardian Blue Lightsaber
+item.lightsaber_purple.name=Purple Lightsaber
+item.lightsaber_red.name=Red Lightsaber
+
+//Blocks
+//tile.block_name.name=Example Block Item Name
+
+//Tools
