@@ -1,0 +1,30 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " C ",
+        "CDC",
+        " C "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        "C":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "swm:kyber_crystal_youngling_blue",
+        "count": 1
+    }
+}

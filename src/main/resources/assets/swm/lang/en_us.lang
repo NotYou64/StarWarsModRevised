@@ -1,13 +1,24 @@
 
 //Items
-//item.example_item.name=Example Mod Item Name
-item.lightsaber_green.name=Green Lightsaber
-item.lightsaber_youngling_blue.name=Youngling Blue Lightsaber
-item.lightsaber_original_blue.name=Guardian Blue Lightsaber
-item.lightsaber_purple.name=Purple Lightsaber
-item.lightsaber_red.name=Red Lightsaber
+
+item.hilt.name=Lightsaber Hilt
+item.hand_grip.name=Lightsaber Grip
+item.blade_emitter.name=Lightsaber Emitter
+item.activator_switch.name=Lightsaber Activator Switch
+
+item.kyber_crystal_green.name=Green Kyber Crystal
+item.kyber_crystal_original_blue.name=Original Blue Kyber Crystal
+item.kyber_crystal_youngling_blue.name=Youngling Blue Kyber Crystal
+item.kyber_crystal_red.name=Red Kyber Crystal
+item.kyber_crystal_purple.name=Purple Kyber Crystal
+
 
 //Blocks
-//tile.block_name.name=Example Block Item Name
+
 
 //Tools
+item.lightsaber_green.name=Green Lightsaber
+item.lightsaber_youngling_blue.name=Youngling Blue Lightsaber
+item.lightsaber_original_blue.name=Original Blue Lightsaber
+item.lightsaber_purple.name=Purple Lightsaber
+item.lightsaber_red.name=Red Lightsaber

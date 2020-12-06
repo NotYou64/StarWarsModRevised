@@ -1,0 +1,25 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD ",
+        "DD ",
+        "DD "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "swm:hand_grip",
+        "count": 1
+    }
+}

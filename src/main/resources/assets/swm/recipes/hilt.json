@@ -1,0 +1,33 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " E ",
+        " A ",
+        " H "
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "swm:blade_emitter"
+        },
+        "H":
+        {
+            "item": "swm:hand_grip"
+        },
+        "A":
+        {
+            "item": "swm:activator_switch"
+        }
+    },
+    
+    "result":
+    {
+        "item": "swm:hilt",
+        "count": 1
+    }
+}

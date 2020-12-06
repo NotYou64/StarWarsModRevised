@@ -1,0 +1,30 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " C ",
+        "CDC",
+        " C "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:dye",
+            "data": 2
+        },
+        "C":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "swm:kyber_crystal_green",
+        "count": 1
+    }
+}

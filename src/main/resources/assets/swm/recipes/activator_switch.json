@@ -1,0 +1,33 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RIR",
+        "IBI",
+        "RIR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone"
+        },
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "B":
+        {
+            "item": "minecraft:stone_button"
+        }
+    },
+    
+    "result":
+    {
+        "item": "swm:activator_switch",
+        "count": 1
+    }
+}

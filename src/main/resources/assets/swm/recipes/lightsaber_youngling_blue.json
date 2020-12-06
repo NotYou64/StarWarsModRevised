@@ -1,6 +1,3 @@
-
-MAKE THIS INTO A JSON FILE AND DELETE THIS TEXT TO USE
-
 { 
     "type": "minecraft:crafting_shapeless",
  
@@ -8,18 +5,18 @@ MAKE THIS INTO A JSON FILE AND DELETE THIS TEXT TO USE
     [
  
     {
-      "item": "modid:object"
+      "item": "swm:hilt"
     },
  
     {
-      "item": "modid:object"
+      "item": "swm:kyber_crystal_youngling_blue"
     }
     
     ],
  
     "result": 
     {
-        "item": "modid:object",
+        "item": "swm:lightsaber_youngling_blue",
         "count": 1
     }
 }
